@@ -1,5 +1,5 @@
 # MyCalculator
-This is a small calculator with basic functionalities written with C#.
+This is a small calculator with basic functions written with C#.
 
 ## More functions the calculator has:
 1. Users can enter a positive demical number, click the button 'Bin', and the demical number will be converted to binary number.
